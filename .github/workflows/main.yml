@@ -1,8 +1,7 @@
 name: generate plantuml
 on:
   push:
-    branches:
-      - master
+
 jobs:
   generate_plantuml:
     runs-on: ubuntu-latest
