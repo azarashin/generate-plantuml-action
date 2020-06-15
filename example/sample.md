@@ -66,3 +66,4 @@ In this case, this action complements `@startgantt` and `@endgantt`.
 ```
 
 ![](./md-sample-gantt.svg)
+
